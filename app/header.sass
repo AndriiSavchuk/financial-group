@@ -1,0 +1,156 @@
+@import "libs/bourbon/app/assets/stylesheets/bourbon"
+@import "sass/vars"
+@import "sass/base"
+
+
+/* First screen styles */
+
+#header
+    min-height: 620px
+    -webkit-background-size: cover
+    background-size: cover
+    background-position: center center
+    position: relative
+    padding-bottom: 120px
+    &::before
+        @extend .before
+        background-color: #394b5f
+        opacity: .85
+
+    .top-line
+        min-height: 160px
+        background-image: url(img/top_gradient.png)
+        padding-top: 45px
+        background-repeat: repeat-x
+
+        .logo
+            opacity: .95
+            img
+                width: 100px
+
+        .main-menu
+            font-size: em(15px)
+            ul
+                @extend .ul-menu
+                li
+                    line-height: 48px
+                    padding: 0 10px
+                    a
+                        text-decoration: none
+                        color: #fff
+                    &.active
+                        a
+                            color: $accent-color
+                            text-decoration: underline
+                    a:hover
+                        color: $accent-color
+                        text-decoration: underline
+
+        .phone-block
+            position: relative
+            .phone
+                opacity: .95
+                color: #fff
+                font-family: "RobotoBold", $helvetica
+                font-size: em(20px)
+                line-height: 48px
+                text-align: right
+                white-space: nowrap
+            .toggle-mnu
+                display: block
+                float: right
+                position: absolute
+                right: 0
+                top: 0
+                text-align: center
+                line-height: 48px
+                width: 28px
+                height: 28px
+                margin: 22px auto 0
+            .toggle-mnu span:after,
+            .toggle-mnu span:before
+                content: ''
+                position: absolute
+                left: 0
+                top: -9px
+
+            .toggle-mnu span:after
+                top: 9px
+
+            .toggle-mnu span
+                position: relative
+                display: block
+
+            .toggle-mnu span,
+            .toggle-mnu span:after,
+            .toggle-mnu span:before
+                width: 100%
+                height: 2px
+                background-color: #fff
+                transition: all 0.3s
+                -webkit-backface-visibility: hidden
+                -moz-backface-visibility: hidden
+                -ms-backface-visibility: hidden
+                backface-visibility: hidden
+                border-radius: 2px
+
+            /*On activation*/
+
+            .toggle-mnu.on span
+                background-color: transparent
+            .toggle-mnu.on span:before
+                transform: rotate(45deg) translate(5px, 5px)
+            .toggle-mnu.on span:after
+                transform: rotate(-45deg) translate(7px, -8px)
+            .toggle-mnu.on + #menu
+                opacity: 1
+                visibility: visible
+
+    .main-block
+        margin-top: 40px
+        .heading
+            h1
+                margin-top: 120px
+                display: inline-block
+                color: #fff
+                border-bottom: $accent-color 8px solid
+                text-transform: none
+            ul
+                @extend .ul-menu
+                margin-top: 10px
+                li
+                    position: relative
+                    display: block
+                    font-family: "RalewaySemiBold", $helvetica
+                    font-size: 18px
+                    line-height: em(30px)
+                    padding-left: 18px
+                    &::before
+                        content: ''
+                        width: 6px
+                        height: 11px
+                        +triangle(12px, $accent-color, right)
+                        position: absolute
+                        top: 10px
+                        left: 0
+                    a
+                        text-decoration: none
+                        color: #fff
+                        &:hover
+                            text-decoration: underline
+    .arrow-wrap
+        @extend .button-wrap
+        position: relative
+        top: 50px
+        .arrow-bottom
+            display: inline-block
+            width: 40px
+            height: 40px
+            background-image: url(img/arrow_down.png)
+            cursor: pointer
+            opacity: .7
+            transition: all .5s ease
+            &:hover
+                opacity: 1
+
+

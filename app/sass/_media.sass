@@ -1,0 +1,125 @@
+@import "../libs/bourbon/app/assets/stylesheets/bourbon"
+@import "vars"
+
+/*==========  Desktop First  ==========*/
+
+
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px)
+
+    /* Header */
+
+    #header
+        .top-line
+
+            .main-menu
+                display: none
+                min-width: 295px
+                float: right
+                text-align: right
+                background-color: #1C242C
+                margin-top: 20px
+                ul
+                    li
+                        display: block
+                        line-height: 0
+                        padding: 0
+                    a
+                        display: block
+                        line-height: 48px
+                        padding: 0 20px
+                        background-color: transparent
+                        transition: all .5s ease
+                        font-size: em(18px)
+                        &:hover
+                            background-color: #273646
+
+            .phone
+                padding-right: 65px
+
+
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px)
+
+    #header
+        .main-block
+            margin-top: 0
+            .heading
+                h1
+                    margin-top: 0px
+
+
+
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px)
+	/**/
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px)
+
+    /* Header */
+
+    #header
+        .top-line
+
+            .logo
+                img
+                    width: 75px
+
+            .phone-block
+                .phone
+                    font-size: em(18px)
+                    line-height: 34px
+                    padding-right: 50px
+                .toggle-mnu
+                    line-height: 25px
+                    width: 30px
+                    height: 30px
+                    margin: 16px auto 0
+
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px)
+	/**/
+
+
+/*==========  Mobile First  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px)
+	/**/
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px)
+	/**/
+
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px)
+	/**/
+
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px)
+	/**/
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px)
+
+    /* Header */
+
+    #header
+        .top-line
+
+            .main-menu
+                display: block !important
+
+
