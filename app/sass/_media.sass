@@ -57,18 +57,39 @@
     /* Main section */
 
     .main-section
-        .mainsect-content
-            .bottom-triangle
-                background-size: cover
+        .section-head
+            margin-bottom: 20px
 
+        .mainsect-content
+            .info
+                .info-block
+                    margin: 30px 0
 
 
 
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px)
-	/**/
 
+    /* Main section */
+
+    .main-section
+        .mainsect-content
+            .info
+                .info-block
+                    max-width: 100%
+                    border-bottom: 1px solid #c0ccdb
+
+        .mainsect-bot-content
+            padding: 0px
+            background-color: #394B5F
+            .info
+                .info-block
+                    max-width: 100%
+                    border-bottom: 1px solid #546476
+            .info:nth-child(2)
+                .info-block
+                    margin-top: 0px
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px)
@@ -92,6 +113,7 @@
                     width: 30px
                     height: 30px
                     margin: 16px auto 0
+
 
 
 
