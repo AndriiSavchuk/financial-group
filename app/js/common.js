@@ -6,4 +6,7 @@ $(document).ready(function () {
         return false;
     });
 
+    $(".main-section .mainsect-content .info-block").equalHeights();
+    $(".main-section .mainsect-bot-content .info-block").equalHeights();
+
 });
