@@ -3,20 +3,25 @@
 @import "libs"
 @import "base"
 
-//Custom styles here
 
 
+//-------- Section EVALUATION -----------//
 
-@import "media"
-
-.main-section
-    padding: 70px 0
+.evaluation
+    padding: 70px 0 0
     background-color: #F9F9F9
     position: relative
+    &::before
+        content: ''
+        height: 6px
+        width: 100%
+        position: absolute
+        top: -6px
+        background-image: url(../img/bah_1.png)
     a
         &:hover
             text-decoration: none
-    .section-head
+    .eval-head
         margin-bottom: 80px
         h2
             text-align: center
@@ -37,7 +42,7 @@
             a
                 font-family: "RalewayBold", $helvetica
 
-    .mainsect-content
+    .eval-content
         min-height: 548px
         background-image: url(../img/s1_gray_bg.png)
         background-repeat: no-repeat
@@ -60,7 +65,7 @@
             .info-block
                 margin-top: 0
 
-    .bottom-triangle
+    .triangle
         height: 90px
         width: 100%
         position: absolute
@@ -76,16 +81,39 @@
             left: 50%
             transform: translate(-50%, 0)
 
-
-
-    .mainsect-bot-content
+    .eval-bot-content
         padding: 15px 0 65px
         background-color: #394B5F
+        .info
+            .info-block
+                padding-left: 34px
+                max-width: 264px
+                margin: 10px 0
+                h4
+                    margin-top: 0
+                    a
+                        font-size: em(24px)
+                        text-transform: none
+                p
+                    font-size: em(16px)
+                    color: #fff
+        .info:nth-child(2)
+            .info-block
+                margin-top: 45px
 
-    .bottom-section
-        background-color: #E5E5E5
+    .eval-button
+        background-color: #2c3949
         padding: 50px 0
         text-align: center
+
+
+
+//-------- Section DEALINGS -----------//
+
+.dealings
+    padding: 70px 0 0
+    background-color: #F9F9F9
+    position: relative
     &::before
         content: ''
         height: 6px
@@ -93,5 +121,69 @@
         position: absolute
         top: -6px
         background-image: url(../img/bah_1.png)
+    a
+        &:hover
+            text-decoration: none
+    .deal-head
+        margin-bottom: 80px
+        h2
+            text-align: center
+            position: relative
+            &::after
+                position: absolute
+                content: ''
+                height: 4px
+                width: 165px
+                background-color: $accent-color
+                display: block
+                bottom: -30px
+                left: 50%
+                transform: translate(-50%, 0)
+        p
+            margin-top: 60px
+            text-align: center
+            a
+                font-family: "RalewayBold", $helvetica
+
+        h3
+            text-align: center
+            margin-top: 50px
+
+    .deal-content
+        padding-bottom: 70px
+        .item-top-row
+            margin-bottom: 50px
+        .deal-item
+            display: block
+            text-align: center
+            color: #111
+            .img-wrap
+                position: relative
+                padding-bottom: 34px
+                margin-bottom: 15px
+                &::before
+                    content: ''
+                    position: absolute
+                    height: 1px
+                    background-color: $accent-color
+                    width: 58px
+                    bottom: 0
+                    left: 50%
+                    transform: translate(-50%, 0)
+                img
+                    max-width: 96px
+                    max-height: 80px
+            span
+                display: block
+                font-family: "RalewayBold", $helvetica
+                font-size: em(14px)
 
 
+
+    .deal-button
+        background-color: #e5e5e5
+        padding: 50px 0
+        text-align: center
+
+
+@import "media"
