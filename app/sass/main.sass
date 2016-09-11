@@ -186,4 +186,110 @@
         text-align: center
 
 
+//-------- Section ACCOUNTING -----------//
+
+.accounting
+    padding: 70px 0 0
+    background-color: #2C3949
+    position: relative
+    &::before
+        content: ''
+        height: 6px
+        width: 100%
+        position: absolute
+        top: -6px
+        background-image: url(../img/bah_2.png)
+    a
+        &:hover
+            text-decoration: none
+    .acc-head
+        margin-bottom: 80px
+        h2
+            text-align: center
+            position: relative
+            color: #fff
+            &::after
+                position: absolute
+                content: ''
+                height: 4px
+                width: 165px
+                background-color: $accent-color
+                display: block
+                bottom: -30px
+                left: 50%
+                transform: translate(-50%, 0)
+        p
+            margin-top: 60px
+            text-align: center
+            color: #e5e5e5
+            a
+                font-family: "RalewayBold", $helvetica
+
+    .acc-content
+        background-image: url(../img/s3_sun_bg.png)
+        background-repeat: no-repeat
+        background-position: bottom
+        position: relative
+        min-height: 850px
+        .acc-row-top
+            margin-top: 50px
+            .info
+                text-align: center
+                .info-block
+                    padding-left: 34px
+                    max-width: 264px
+                    margin: 70px 0
+                    h4
+                        margin-top: 0
+                        a
+                            font-size: em(24px)
+                            text-transform: none
+                    p
+                        font-size: em(16px)
+                        color: #e5e5e5
+            .info:nth-child(2)
+                .info-block
+                    margin-top: 0
+        .acc-row-middle
+            .info
+                .info-block
+                    padding-left: 34px
+                    max-width: 264px
+                    margin: 70px 0
+                    h4
+                        margin-top: 0
+                        a
+                            font-size: em(24px)
+                            text-transform: none
+                    p
+                        font-size: em(16px)
+                        color: #e5e5e5
+            .info:last-child
+                .info-block
+                    text-align: right
+        .acc-row-bot
+            .info
+                .info-block
+                    padding-left: 34px
+                    max-width: 264px
+                    margin: 70px 0
+                    h4
+                        margin-top: 0
+                        a
+                            font-size: em(24px)
+                            text-transform: none
+                    p
+                        font-size: em(16px)
+                        color: #e5e5e5
+            .info:nth-child(2)
+                .info-block
+                    margin-top: 175px
+
+    .acc-button
+        background-color: #394B5F
+        margin-top: 60px
+        padding: 50px 0
+        text-align: center
+
+
 @import "media"
