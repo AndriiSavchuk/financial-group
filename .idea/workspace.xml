@@ -3,6 +3,95 @@
   <component name="ChangeListManager">
     <list default="true" id="738ff7a3-8cb8-4be8-a451-2470388a9110" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< HEAD
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/main.min.css" afterPath="$PROJECT_DIR$/app/css/main.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/LICENSE.md" afterPath="$PROJECT_DIR$/app/libs/bourbon/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/README.md" afterPath="$PROJECT_DIR$/app/libs/bourbon/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/_bourbon-deprecated-upcoming.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/_bourbon-deprecated-upcoming.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/_bourbon.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/_bourbon.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_border-color.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_border-color.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_border-radius.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_border-radius.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_border-style.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_border-style.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_border-width.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_border-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_buttons.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_clearfix.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_clearfix.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_ellipsis.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_ellipsis.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_font-stacks.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_font-stacks.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_hide-text.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_hide-text.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_margin.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_margin.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_padding.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_padding.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_position.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_position.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_prefixer.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_prefixer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_retina-image.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_retina-image.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_size.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_size.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_text-inputs.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_text-inputs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_timing-functions.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_timing-functions.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_triangle.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_triangle.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_word-wrap.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/addons/_word-wrap.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_animation.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_animation.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_appearance.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_appearance.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_backface-visibility.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_backface-visibility.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_background-image.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_background-image.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_background.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_background.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_border-image.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_border-image.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_calc.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_calc.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_columns.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_columns.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_filter.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_filter.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_flex-box.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_flex-box.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_font-face.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_font-face.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_font-feature-settings.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_font-feature-settings.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_hidpi-media-query.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_hidpi-media-query.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_hyphens.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_hyphens.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_image-rendering.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_image-rendering.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_keyframes.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_keyframes.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_linear-gradient.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_linear-gradient.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_perspective.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_perspective.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_placeholder.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_placeholder.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_radial-gradient.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_radial-gradient.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_selection.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_selection.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_text-decoration.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_text-decoration.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_transform.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_transform.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_transition.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_transition.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_user-select.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/css3/_user-select.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_assign-inputs.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_assign-inputs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_contains-falsy.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_contains-falsy.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_contains.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_contains.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_is-length.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_is-length.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_is-light.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_is-light.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_is-number.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_is-number.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_is-size.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_is-size.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_modular-scale.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_modular-scale.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_px-to-em.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_px-to-em.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_px-to-rem.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_px-to-rem.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_shade.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_shade.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_strip-units.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_strip-units.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_tint.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_tint.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_transition-property-name.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_transition-property-name.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_unpack.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/functions/_unpack.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_convert-units.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_convert-units.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_directional-values.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_directional-values.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_font-source-declaration.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_font-source-declaration.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_gradient-positions-parser.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_gradient-positions-parser.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_linear-angle-parser.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_linear-angle-parser.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_linear-gradient-parser.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_linear-gradient-parser.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_linear-positions-parser.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_linear-positions-parser.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_linear-side-corner-parser.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_linear-side-corner-parser.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_radial-arg-parser.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_radial-arg-parser.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_radial-gradient-parser.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_radial-gradient-parser.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_radial-positions-parser.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_radial-positions-parser.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_render-gradients.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_render-gradients.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_shape-size-stripper.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_shape-size-stripper.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_str-to-num.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/helpers/_str-to-num.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/settings/_asset-pipeline.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/settings/_asset-pipeline.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/settings/_prefixer.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/settings/_prefixer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/settings/_px-to-em.scss" afterPath="$PROJECT_DIR$/app/libs/bourbon/app/assets/stylesheets/settings/_px-to-em.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/bower.json" afterPath="$PROJECT_DIR$/app/libs/bourbon/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/eyeglass-exports.js" afterPath="$PROJECT_DIR$/app/libs/bourbon/eyeglass-exports.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/index.js" afterPath="$PROJECT_DIR$/app/libs/bourbon/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/main.sass" afterPath="$PROJECT_DIR$/app/sass/main.sass" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
     </list>
     <ignored path="armata.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +119,13 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
                 <state relative-caret-position="20">
                   <caret line="249" column="39" selection-start-line="249" selection-start-column="39" selection-end-line="249" selection-end-column="39" />
+=======
+                <state relative-caret-position="806">
+                  <caret line="392" column="52" selection-start-line="392" selection-start-column="52" selection-end-line="392" selection-end-column="52" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
                   <folding>
                     <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="e#20357#20362#0" expanded="true" />
@@ -44,7 +138,7 @@
           <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/js/common.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
+                <state relative-caret-position="171">
                   <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
                   <folding />
                 </state>
@@ -58,8 +152,13 @@
           <file leaf-file-name="main.sass" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
                 <state relative-caret-position="156">
                   <caret line="158" column="19" selection-start-line="158" selection-start-column="19" selection-end-line="158" selection-end-column="19" />
+=======
+                <state relative-caret-position="653">
+                  <caret line="256" column="36" selection-start-line="256" selection-start-column="36" selection-end-line="256" selection-end-column="36" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
                   <folding />
                 </state>
               </provider>
@@ -68,7 +167,11 @@
           <file leaf-file-name="_base.sass" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/sass/_base.sass">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
                 <state relative-caret-position="2940">
+=======
+                <state relative-caret-position="2793">
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
                   <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
                   <folding />
                 </state>
@@ -78,7 +181,7 @@
           <file leaf-file-name="_vars.sass" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="80">
+                <state relative-caret-position="76">
                   <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
                   <folding />
                 </state>
@@ -88,7 +191,11 @@
           <file leaf-file-name="_media.sass" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
                 <state relative-caret-position="1980">
+=======
+                <state relative-caret-position="1881">
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
                   <caret line="99" column="29" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
                   <folding />
                 </state>
@@ -112,9 +219,9 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/sass/_base.sass" />
         <option value="$PROJECT_DIR$/app/js/common.js" />
+        <option value="$PROJECT_DIR$/app/sass/_media.sass" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/sass/main.sass" />
-        <option value="$PROJECT_DIR$/app/sass/_media.sass" />
       </list>
     </option>
   </component>
@@ -191,10 +298,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1357" />
-    <option name="y" value="-9" />
-    <option name="width" value="1698" />
-    <option name="height" value="1018" />
+    <option name="x" value="1365" />
+    <option name="width" value="1682" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -207,7 +313,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -220,21 +326,15 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Practise/03.JavaScript/SS_Tasks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.splitter.proportion" value="0.24485798" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="D:\IT\Front-end\Projects\financial-group\node_modules\gulp" />
   </component>
@@ -341,25 +441,44 @@
       <workItem from="1473274079412" duration="4087000" />
       <workItem from="1473445103889" duration="4672000" />
       <workItem from="1473495650817" duration="6568000" />
+<<<<<<< HEAD
       <workItem from="1473703215243" duration="49000" />
+=======
+      <workItem from="1473620273589" duration="93000" />
+      <workItem from="1473620386450" duration="103000" />
+      <workItem from="1473620854478" duration="151000" />
+      <workItem from="1473621024368" duration="9000" />
+      <workItem from="1473621157496" duration="19000" />
+      <workItem from="1473621498365" duration="220000" />
+      <workItem from="1473623329905" duration="66000" />
+      <workItem from="1473623415197" duration="3723000" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="68451000" />
+=======
+    <option name="totallyTimeSpent" value="72786000" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
   </component>
   <component name="ToolWindowManager">
-    <frame x="1357" y="-9" width="1698" height="1018" extended-state="6" />
+    <frame x="1365" y="0" width="1682" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19442762" sideWeight="0.513468" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13022411" sideWeight="0.48653197" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12975256" sideWeight="0.48653197" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949728" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6030702" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35480574" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -738,7 +857,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="171">
           <caret line="9" column="66" selection-start-line="9" selection-start-column="66" selection-end-line="9" selection-end-column="66" />
           <folding />
         </state>
@@ -746,7 +865,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="76">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
@@ -754,22 +873,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_base.sass">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="2940">
+=======
+        <state relative-caret-position="2793">
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
           <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1980">
+          <caret line="99" column="29" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
+          <folding />
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
           <caret line="99" column="29" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="392" column="52" selection-start-line="392" selection-start-column="52" selection-end-line="392" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#20357#20362#0" expanded="true" />
+            <element signature="e#27128#27133#0" expanded="true" />
+          </folding>
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="156">
           <caret line="158" column="19" selection-start-line="158" selection-start-column="19" selection-end-line="158" selection-end-column="19" />
           <folding />
@@ -792,6 +942,11 @@
             <element signature="e#20357#20362#0" expanded="true" />
             <element signature="e#27128#27133#0" expanded="true" />
           </folding>
+=======
+        <state relative-caret-position="653">
+          <caret line="256" column="36" selection-start-line="256" selection-start-column="36" selection-end-line="256" selection-end-column="36" />
+          <folding />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
         </state>
       </provider>
     </entry>
