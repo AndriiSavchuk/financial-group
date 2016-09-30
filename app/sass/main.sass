@@ -1,4 +1,4 @@
-@import "../libs/bourbon/app/assets/stylesheets/bourbon"
+@import "bourbon/bourbon"
 @import "vars"
 @import "libs"
 @import "base"
@@ -21,6 +21,7 @@
     a
         &:hover
             text-decoration: none
+
     .eval-head
         margin-bottom: 80px
         h2
@@ -51,8 +52,7 @@
         padding-bottom: 90px
         .info
             .info-block
-                padding-left: 34px
-                max-width: 264px
+                text-align: center
                 margin: 70px 0
                 h4
                     margin-top: 0
@@ -64,7 +64,6 @@
         .info:nth-child(2)
             .info-block
                 margin-top: 0
-
     .triangle
         height: 90px
         width: 100%
@@ -80,14 +79,12 @@
             top: -130px
             left: 50%
             transform: translate(-50%, 0)
-
     .eval-bot-content
         padding: 15px 0 65px
         background-color: #394B5F
         .info
             .info-block
-                padding-left: 34px
-                max-width: 264px
+                text-align: center
                 margin: 10px 0
                 h4
                     margin-top: 0
@@ -124,6 +121,7 @@
     a
         &:hover
             text-decoration: none
+
     .deal-head
         margin-bottom: 80px
         h2
@@ -178,8 +176,6 @@
                 font-family: "RalewayBold", $helvetica
                 font-size: em(14px)
 
-
-
     .deal-button
         background-color: #e5e5e5
         padding: 50px 0
@@ -202,6 +198,7 @@
     a
         &:hover
             text-decoration: none
+
     .acc-head
         margin-bottom: 80px
         h2
@@ -236,8 +233,7 @@
             .info
                 text-align: center
                 .info-block
-                    padding-left: 34px
-                    max-width: 264px
+                    text-align: center
                     margin: 70px 0
                     h4
                         margin-top: 0
@@ -253,8 +249,7 @@
         .acc-row-middle
             .info
                 .info-block
-                    padding-left: 34px
-                    max-width: 264px
+                    text-align: center
                     margin: 70px 0
                     h4
                         margin-top: 0
@@ -264,14 +259,10 @@
                     p
                         font-size: em(16px)
                         color: #e5e5e5
-            .info:last-child
-                .info-block
-                    text-align: right
         .acc-row-bot
             .info
                 .info-block
-                    padding-left: 34px
-                    max-width: 264px
+                    text-align: center
                     margin: 70px 0
                     h4
                         margin-top: 0
@@ -290,6 +281,92 @@
         margin-top: 60px
         padding: 50px 0
         text-align: center
+
+
+//-------- Section ADVANTAGES -----------//
+
+.advantages
+    padding: 70px 0 0
+    background-color: #E5E5E5
+    position: relative
+    &::before
+        content: ''
+        height: 6px
+        width: 100%
+        position: absolute
+        top: -6px
+        background-image: url(../img/bah_3.png)
+    a
+        &:hover
+            text-decoration: none
+
+    .adv-head
+        margin-bottom: 80px
+        h2
+            text-align: center
+            position: relative
+            &::after
+                position: absolute
+                content: ''
+                height: 4px
+                width: 165px
+                background-color: $accent-color
+                display: block
+                bottom: -30px
+                left: 50%
+                transform: translate(-50%, 0)
+        p
+            margin-top: 60px
+            text-align: center
+            a
+                font-family: "RalewayBold", $helvetica
+
+        h3
+            text-align: center
+            margin-top: 50px
+
+    .cards
+        text-align: center
+        perspective: 600px
+        .card
+            &-on
+                opacity: 1
+            &-off
+                transform: rotateY(100deg)
+                opacity: 0
+            width: 260px
+            transition: all 2s ease
+            display: inline-block
+            background-color: #2c3949
+            padding: 54px 28px
+            margin: 0 12px
+            color: #97a4b2
+            font-size: em(14px)
+            .card-icon
+                width: 120px
+                height: 120px
+                background-color: $accent-color
+                border-radius: 50%
+                display: inline-block
+                line-height: 120px
+                img
+                    width: 75px
+            h4
+                color: #e5e5e5
+                font-family: "RalewayBold", $helvetica
+                font-size: em(18px)
+                margin-top: 30px
+            p
+                strong
+                    color: $accent-color
+
+    .adv-button
+        background-color: #d6d6d6
+        margin-top: 60px
+        padding: 50px 0
+        text-align: center
+
+
 
 
 @import "media"

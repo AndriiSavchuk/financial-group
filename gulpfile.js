@@ -49,15 +49,16 @@ gulp.task('headersass', function () {
         .pipe(browserSync.reload({stream: true}))
 });
 
-gulp.task('libs', function () {
-    return gulp.src([
-        'app/libs/jquery/dist/jquery.min.js',
-        // 'app/libs/magnific-popup/magnific-popup.min.js'
-    ])
-        .pipe(concat('libs.min.js'))
-        .pipe(uglify())
-        .pipe(gulp.dest('app/js'));
-});
+// gulp.task('libs', function () {
+//     return gulp.src([
+//         // 'app/libs/jquery/dist/jquery.min.js',
+//         // 'app/libs/equalheight/jquery.equalheights.min.js',
+//         'app/libs/waypoints/jquery.waypoints.min.js'
+//     ])
+//         .pipe(concat('libs.min.js'))
+//         .pipe(uglify())
+//         .pipe(gulp.dest('app/js'));
+// });
 
 gulp.task('watch', ['sass', 'libs', 'browser-sync'], function () {
     gulp.watch('app/header.sass', ['headersass']);

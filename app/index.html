@@ -5,7 +5,7 @@
 
     <meta charset="utf-8">
 
-    <title>Title</title>
+    <title>Armata</title>
     <meta name="description" content="">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,7 +36,6 @@
     <!-- Load Fonts CSS End -->
 
     <!-- Load Custom CSS Start -->
-
     <!--<Deject>-->
     <script>loadCSS( "header.min.css?ver=1.0.0", false, "all" );</script>
     <!--</Deject>-->
@@ -45,16 +44,18 @@
 
     <!-- Load Custom CSS Compiled without JS Start -->
     <noscript>
-    <link rel="stylesheet" href="css/fonts.min.css">
-    <link rel="stylesheet" href="css/main.min.css">
+        <link rel="stylesheet" href="css/fonts.min.css">
+        <link rel="stylesheet" href="css/main.min.css">
     </noscript>
     <!-- Load Custom CSS Compiled without JS End -->
 
     <!-- Custom Browsers Color Start -->
     <!-- Chrome, Firefox OS and Opera -->
     <meta name="theme-color" content="#000">
+
     <!-- Windows Phone -->
     <meta name="msapplication-navbutton-color" content="#000">
+
     <!-- iOS Safari -->
     <meta name="apple-mobile-web-app-status-bar-style" content="#000">
     <!-- Custom Browsers Color End -->
@@ -135,7 +136,6 @@
                 <div class="arrow-bottom"></div>
             </div>
         </header>
-
         <!-- End of Header -->
 
         <!-- Section EVALUATION -->
@@ -174,14 +174,14 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-8 info">
+                        <div class="col-sm-4 info">
                             <div class="info-block">
                                 <h4><a href="#">Lorem ipsum dolor</a></h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                             </div>
                         </div>
 
-                        <div class="col-sm-4 info">
+                        <div class="col-sm-4 col-sm-offset-4 info">
                             <div class="info-block">
                                 <h4><a href="#">Lorem ipsum dolor</a></h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
@@ -230,7 +230,6 @@
                 </div>
             </div>
         </section>
-
         <!-- End of Section EVALUATION -->
 
         <!-- Section DEALINGS -->
@@ -350,7 +349,6 @@
                 </div>
             </div>
         </section>
-
         <!-- End of Section DEALINGS -->
 
         <!-- Section ACCOUNTING -->
@@ -437,40 +435,94 @@
                 </div>
             </div>
         </section>
-
-
         <!-- End of Section ACCOUNTING -->
 
+        <!-- Section ADVANTAGES -->
+
+        <section class="advantages">
+            <div class="container">
+                <div class="row">
+                    <div class="adv-head col-md-10 col-md-offset-1">
+                        <h2>Advantages of Armata Financial Group</h2>
+                        <p><strong>Lorem ipsum</strong> dolor sit amet consectetur adipisicing elit. <a href="#">Accusamus</a> commodi cupiditate dicta dolores ea, eius et id laudantium minus mollitia nam nobis nulla odit porro rem sunt temporibus totam voluptatem. Lorem ipsum dolor sit amet, adipisicing.</p>
+                        <h3>Lorem ipsum sit consectetur adipisicing elit.</h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row">
+                    <div class="cards">
+                        <div class="card card-off">
+                            <div class="card-icon">
+                                <img src="img/icons/section_4/1.svg" alt="Sales" />
+                            </div>
+                            <h4>Discounts</h4>
+                            <p>Lorem ipsum sit consectetur adipisicing elit amet consectetur <strong>50%</strong> dolor sit amet</p>
+                        </div>
+
+                        <div class="card card-off">
+                            <div class="card-icon">
+                                <img src="img/icons/section_4/2.svg" alt="Sales" />
+                            </div>
+                            <h4>Team</h4>
+                            <p>Lorem ipsum sit consectetur adipisicing elit amet consectetur dolor sit amet</p>
+                        </div>
+
+                        <div class="card card-off">
+                            <div class="card-icon">
+                                <img src="img/icons/section_4/3.svg" alt="Sales" />
+                            </div>
+                            <h4>Speed</h4>
+                            <p>Lorem ipsum sit consectetur adipisicing elit amet consectetur dolor sit amet</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <div class="adv-button">
+                    <a href="#" class="buttons">Order accounting</a>
+                </div>
+            </div>
+
+        </section>
+        <!-- End of Section ADVANTAGES -->
 
 
         <!-- Optimized loading JS Start -->
-        <script>
-            var scr = {
-            "scripts": [
-                {"src": "js/libs.min.js", "async": false},
-                {"src": "../libs/equalHeight/jquery.equalheights.min.js", "async": false},
-                {"src": "js/common.js", "async": false}
-            ]
-        };
-        !function (t, n, r) {
-            "use strict";
-            var c = function (t) {
-                if ("[object Array]" !== Object.prototype.toString.call(t))return !1;
-                for (var r = 0; r < t.length; r++) {
-                    var c = n.createElement("script"), e = t[r];
-                    c.src = e.src, c.async = e.async, n.body.appendChild(c)
-                }
-                return !0
-            };
-            t.addEventListener ? t.addEventListener("load", function () {
-                c(r.scripts);
-            }, !1) : t.attachEvent ? t.attachEvent("onload", function () {
-                c(r.scripts)
-            }) : t.onload = function () {
-                c(r.scripts)
-            }
-        }(window, document, scr);
-        </script>
+
+        <script src="libs/jquery/dist/jquery.min.js"></script>
+        <script src="libs/equalheight/jquery.equalheights.min.js"></script>
+        <script src="libs/waypoints/jquery.waypoints.min.js"></script>
+        <script src="js/common.js"></script>
+
+        <!--<script>-->
+            <!--var scr = {-->
+            <!--"scripts": [-->
+                <!--{"src": "js/libs.min.js", "async": false},-->
+                <!--{"src": "js/common.js", "async": false}-->
+            <!--]-->
+        <!--};-->
+        <!--!function (t, n, r) {-->
+            <!--"use strict";-->
+            <!--var c = function (t) {-->
+                <!--if ("[object Array]" !== Object.prototype.toString.call(t))return !1;-->
+                <!--for (var r = 0; r < t.length; r++) {-->
+                    <!--var c = n.createElement("script"), e = t[r];-->
+                    <!--c.src = e.src, c.async = e.async, n.body.appendChild(c)-->
+                <!--}-->
+                <!--return !0-->
+            <!--};-->
+            <!--t.addEventListener ? t.addEventListener("load", function () {-->
+                <!--c(r.scripts);-->
+            <!--}, !1) : t.attachEvent ? t.attachEvent("onload", function () {-->
+                <!--c(r.scripts)-->
+            <!--}) : t.onload = function () {-->
+                <!--c(r.scripts)-->
+            <!--}-->
+        <!--}(window, document, scr);-->
+        <!--</script>-->
         <!-- Optimized loading JS End -->
 
     </body>

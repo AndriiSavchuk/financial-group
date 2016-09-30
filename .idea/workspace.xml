@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="738ff7a3-8cb8-4be8-a451-2470388a9110" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< HEAD
+=======
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/main.min.css" afterPath="$PROJECT_DIR$/app/css/main.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/LICENSE.md" afterPath="$PROJECT_DIR$/app/libs/bourbon/LICENSE.md" />
@@ -89,6 +91,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/eyeglass-exports.js" afterPath="$PROJECT_DIR$/app/libs/bourbon/eyeglass-exports.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/bourbon/index.js" afterPath="$PROJECT_DIR$/app/libs/bourbon/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/sass/main.sass" afterPath="$PROJECT_DIR$/app/sass/main.sass" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
     </list>
     <ignored path="armata.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -116,8 +119,13 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+                <state relative-caret-position="20">
+                  <caret line="249" column="39" selection-start-line="249" selection-start-column="39" selection-end-line="249" selection-end-column="39" />
+=======
                 <state relative-caret-position="806">
                   <caret line="392" column="52" selection-start-line="392" selection-start-column="52" selection-end-line="392" selection-end-column="52" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
                   <folding>
                     <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="e#20357#20362#0" expanded="true" />
@@ -144,8 +152,13 @@
           <file leaf-file-name="main.sass" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+                <state relative-caret-position="156">
+                  <caret line="158" column="19" selection-start-line="158" selection-start-column="19" selection-end-line="158" selection-end-column="19" />
+=======
                 <state relative-caret-position="653">
                   <caret line="256" column="36" selection-start-line="256" selection-start-column="36" selection-end-line="256" selection-end-column="36" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
                   <folding />
                 </state>
               </provider>
@@ -154,7 +167,11 @@
           <file leaf-file-name="_base.sass" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/sass/_base.sass">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+                <state relative-caret-position="2940">
+=======
                 <state relative-caret-position="2793">
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
                   <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
                   <folding />
                 </state>
@@ -174,7 +191,11 @@
           <file leaf-file-name="_media.sass" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+                <state relative-caret-position="1980">
+=======
                 <state relative-caret-position="1881">
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
                   <caret line="99" column="29" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
                   <folding />
                 </state>
@@ -420,6 +441,9 @@
       <workItem from="1473274079412" duration="4087000" />
       <workItem from="1473445103889" duration="4672000" />
       <workItem from="1473495650817" duration="6568000" />
+<<<<<<< HEAD
+      <workItem from="1473703215243" duration="49000" />
+=======
       <workItem from="1473620273589" duration="93000" />
       <workItem from="1473620386450" duration="103000" />
       <workItem from="1473620854478" duration="151000" />
@@ -428,11 +452,16 @@
       <workItem from="1473621498365" duration="220000" />
       <workItem from="1473623329905" duration="66000" />
       <workItem from="1473623415197" duration="3723000" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="68451000" />
+=======
     <option name="totallyTimeSpent" value="72786000" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="0" width="1682" height="1050" extended-state="6" />
@@ -445,7 +474,11 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949728" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6030702" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35480574" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -840,13 +873,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_base.sass">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="2940">
+=======
         <state relative-caret-position="2793">
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
           <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+<<<<<<< HEAD
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="99" column="29" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
+          <folding />
+=======
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1881">
           <caret line="99" column="29" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
@@ -870,14 +913,40 @@
             <element signature="e#20357#20362#0" expanded="true" />
             <element signature="e#27128#27133#0" expanded="true" />
           </folding>
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="156">
+          <caret line="158" column="19" selection-start-line="158" selection-start-column="19" selection-end-line="158" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="249" column="39" selection-start-line="249" selection-start-column="39" selection-end-line="249" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#20357#20362#0" expanded="true" />
+            <element signature="e#27128#27133#0" expanded="true" />
+          </folding>
+=======
         <state relative-caret-position="653">
           <caret line="256" column="36" selection-start-line="256" selection-start-column="36" selection-end-line="256" selection-end-column="36" />
           <folding />
+>>>>>>> 3f940de597ad6ee0f292e3b648de06e514f302a2
         </state>
       </provider>
     </entry>
