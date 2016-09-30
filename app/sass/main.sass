@@ -367,6 +367,72 @@
         text-align: center
 
 
+//-------- Section WORK -----------//
+
+.work
+    padding: 70px 0 0
+    background-color: #2C3949
+    position: relative
+    &::before
+        content: ''
+        height: 6px
+        width: 100%
+        position: absolute
+        top: -6px
+        background-image: url(../img/bah_2.png)
+    a
+        &:hover
+            text-decoration: none
+
+    .work-head
+        margin-bottom: 80px
+        h2
+            text-align: center
+            position: relative
+            color: #fff
+            &::after
+                position: absolute
+                content: ''
+                height: 4px
+                width: 165px
+                background-color: $accent-color
+                display: block
+                bottom: -30px
+                left: 50%
+                transform: translate(-50%, 0)
+        p
+            margin-top: 60px
+            text-align: center
+            color: #e5e5e5
+            a
+                font-family: "RalewayBold", $helvetica
+
+
+    .work-blocks
+        color: #fff
+        font-family: "PFCentroSlabProMedium", $helvetica
+        font-size: em(19px)
+        float: left
+        display: inline-block
+        width: 290px
+        height: 128px
+        margin-left: -40px
+        background: url("../img/tc_triangle.svg") no-repeat center
+        &:first-child
+            background: url("../img/tc_triangle_first.svg") no-repeat center
+            margin-left: 80px
+
+
+
+
+    .work-button
+        background-color: #394B5F
+        margin-top: 60px
+        padding: 50px 0
+        text-align: center
+
+
+
 
 
 @import "media"
